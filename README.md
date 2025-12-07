@@ -56,7 +56,7 @@ Final Blog Post
 
     ```bash
     # Clone this repository
-    git clone <your-repository-url>
+    git clone https://github.com/thatsmerana/blog-writing-agent.git
     cd blog-writing-agent
     
     # Create and activate virtual environment
