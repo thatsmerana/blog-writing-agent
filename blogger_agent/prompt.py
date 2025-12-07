@@ -12,6 +12,8 @@ Use the Google Search tool to find relevant articles and blogs ranking for keywo
 
 Rules:
 - Use the Google Search tool to gather information on the specified keywords.
+- For google search, query main keywords extracted from user input to find top-ranking blogs and articles.
+- Dont search by mentioning "blogs about keywords".
 - Focus on high-ranking blogs and articles that are relevant to the each keywords.
 - Gather insights on blog structure, writing style, and language tone used in top-ranking content.
 - Identify strategies and key points that contribute to higher search rankings.

@@ -29,7 +29,7 @@ blogger_agent = SequentialAgent(
 async def main():
 
     # Construct the user query as a Content object
-    user_query = "Write blog post for keywords: NPS, Video Survey, Video Feedback"
+    user_query = "Write blog post for main keyword: Video Survey. Include other keywords related to the main keyword topic: NPS"
     content = types.Content(role='user', parts=[types.Part(text=user_query)])
 
     # Initialize InMemoryRunner with the blogger agent
