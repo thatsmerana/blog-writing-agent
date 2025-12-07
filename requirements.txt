@@ -1,0 +1,9 @@
+protobuf
+google-adk
+python-dotenv
+aiohttp
+pytest==9.0.1
+pytest-asyncio==1.3.0
+pytest-cov
+dateparser
+python-dateutil
